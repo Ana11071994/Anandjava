@@ -22,10 +22,13 @@ public class Detail {
 		System.out.println("Chennai");
     	System.out.println("Trichy");
 		System.out.println("Thanjavur");
+		System.out.println("Trichy");
+    System.out.println("ooty");
 	System.out.println("kallakurichi"); 
 		System.out.println("Trichy");
 
 		System.out.println("kallakurichi");
+
 
 	}
 	public static void main(String[] args) {
