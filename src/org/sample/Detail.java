@@ -20,6 +20,7 @@ public class Detail {
 		System.out.println("long phone no");
 		System.out.println("anand");
 		System.out.println("Chennai");
+		System.out.println("Thanjavur");
 	}
 	public static void main(String[] args) {
 		Detail d = new Detail();
