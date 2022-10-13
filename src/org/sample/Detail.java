@@ -21,6 +21,7 @@ public class Detail {
 		System.out.println("anand");
 		System.out.println("Chennai");
 		System.out.println("Trichy");
+		System.out.println("kallakurichi");
 	}
 	public static void main(String[] args) {
 		Detail d = new Detail();
