@@ -22,14 +22,14 @@ public class Detail {
 		System.out.println("Chennai");
     	System.out.println("Trichy");
 		System.out.println("Thanjavur");
-<<<<<<< HEAD
-		System.out.println("ooty");
-		
-=======
-
+		System.out.println("Trichy");
+    System.out.println("ooty");
+	System.out.println("kallakurichi"); 
 		System.out.println("Trichy");
 
->>>>>>> ddbbf242f6798b4e24addbccb3c11baa2f8e0f46
+		System.out.println("kallakurichi");
+
+
 	}
 	public static void main(String[] args) {
 		Detail d = new Detail();
