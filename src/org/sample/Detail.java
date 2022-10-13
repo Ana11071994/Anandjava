@@ -19,6 +19,7 @@ public class Detail {
 	public Detail(long l) {
 		System.out.println("long phone no");
 		System.out.println("anand");
+		System.out.println("Chennai");
 	}
 	public static void main(String[] args) {
 		Detail d = new Detail();
